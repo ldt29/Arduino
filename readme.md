@@ -1,2 +1,2 @@
 ## Hardware Design Competition
-use arduino for this competion
+use arduino for this competition
